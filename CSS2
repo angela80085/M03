@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #6DB65B; /* Primary Text Color */
+    background-color: #FFFFFF; /* Background Color */
+}
+
+h1 {
+    color: #4F86F7; /* Heading Color */
+}
+
+p {
+    color: #6DB65B; /* Paragraph Text Color */
+}
+
+footer {
+    color: #FFD204; /* Footer Text Color */
+    background-color: #471717; /* Dark Brown Background */
+}
