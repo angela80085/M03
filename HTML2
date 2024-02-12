@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Wellness Brand Colors</title>
+    <link rel="stylesheet" href="colors.css">
+</head>
+<body>
+    <h1>Welcome to Our Wellness Space</h1>
+    <p>Discover a sanctuary for peace and health.</p>
+    <footer>Contact us for more information.</footer>
+</body>
+</html>
